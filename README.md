@@ -7,3 +7,9 @@ Furthermore, price histories were available for individual properties on website
 This is just a python script that pulls data from http://cookrecorder.com/.
 
 To use this script simply provide a range of property pins to get_pins_data, get your df, and take it from there!
+
+### Get set up
+
+- Set up an anaconda environment with environment.yml
+- Requires chrome.
+- Download latest version of chromedriver (or whichever version you require if not using the latest chrome) and put the .exe in your script directory.
